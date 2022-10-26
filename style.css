@@ -630,7 +630,7 @@ button{
 
     @media screen and (max-width:600px){
         body{
-            width: 100vw;
+            width: 414px;
             margin: 0;
             padding: 0%;
             overflow-x: hidden;
