@@ -633,7 +633,8 @@ button{
             width: 414px;
             margin: 0;
             padding: 0%;
-            overflow: hidden;
+            overflow-Y: hidden;
+            padding-left:10px;
         }
         nav{
             margin-left: -50px;
