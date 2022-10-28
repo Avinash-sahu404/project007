@@ -638,6 +638,8 @@ button{
         }
         nav{
             margin-left: -50px;
+           overflow-x: hidden;
+            width: 100vw;
         }
         nav button{
            margin-right: 80px;
