@@ -630,16 +630,17 @@ button{
 
     @media screen and (max-width:600px){
         body{
-            width: 100vw;
+            width: 414px;
             margin: 0;
             padding: 0%;
             
-            padding-left:10px;
+            padding-left:20px;
+           overflow-x: hidden;
         }
         nav{
             margin-left: -50px;
            overflow-x: hidden;
-            width: 100vw;
+            width: 414px;
         }
         nav button{
            margin-right: 80px;
