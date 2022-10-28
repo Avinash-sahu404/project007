@@ -635,11 +635,11 @@ button{
             padding: 0%;
             
             padding-left:20px;
-           overflow-x: hidden;
+           overflow-X: hidden;
         }
         nav{
             margin-left: -50px;
-           overflow-x : hidden;
+           overflow-Y : hidden;
             width: 414px;
         }
         nav button{
