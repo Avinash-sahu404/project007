@@ -633,13 +633,13 @@ button{
             width: 414px;
             margin: 0;
             padding: 0%;
-            
+            Display: Block;
             padding-left:20px;
            overflow-X: hidden;
         }
         nav{
             margin-left: -50px;
-           overflow-Z : hidden;
+           
             width: 414px;
         }
         nav button{
