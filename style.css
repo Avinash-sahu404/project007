@@ -639,7 +639,7 @@ button{
         }
         nav{
             margin-left: -50px;
-           overflow-Y : hidden;
+           overflow-X : hidden;
             width: 414px;
         }
         nav button{
