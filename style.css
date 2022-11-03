@@ -759,7 +759,7 @@ button{
         
     float: left;}
     .contact-list{
-        margin: 0;
+        margin: 100px;
         position: relative;
     }
     .contact-list h2{
